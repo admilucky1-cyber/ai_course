@@ -1,0 +1,22 @@
+------------------------------
+# What we will Learn?
+-------------------------------
+>The entire life cycle of plotting
+
+>Different ways of plotting:
+
+>Using Pandas DataFrame
+
+>Using NumPy arrays
+------------------------------------------------------
+"Matplotlib life cycle"
+------------------------------------------------
+>Create data
+
+>Create Plot
+
+>Plot data
+
+>Customize plot
+
+>Save/share plot

@@ -1,0 +1,6 @@
+
+
+
+
+def body():
+    return 'body'

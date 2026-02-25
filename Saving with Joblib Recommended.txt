@@ -1,0 +1,14 @@
+💾 Saving with Joblib (Recommended)
+import joblib
+
+# Save the model to a file
+joblib.dump(lr_gs, filename="tuned_logistic_regression_model.joblib")
+
+# Load the saved model
+loaded_model = joblib.load(filename="tuned_logistic_regression_model.joblib")
+
+📂 How to Load it later
+
+When you start a new project or build a website, you can bring the model back to life with just one line:
+# Use it to make a prediction
+# loaded_model.predict(new_data)

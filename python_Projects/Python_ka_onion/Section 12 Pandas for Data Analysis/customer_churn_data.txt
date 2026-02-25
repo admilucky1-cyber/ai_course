@@ -1,0 +1,7 @@
+customer_id,age,gender,tenure_months,monthly_charges,total_charges,contract_type,payment_method,internet_service,support_calls,churn
+C001,45,M,24,70.5,1692.0,One year,Credit card,Fiber,1,0
+C002,29,F,6,89.9,539.4,Month-to-month,Electronic check,Fiber,3,1
+C003,61,M,48,55.3,2654.4,Two year,Bank transfer,DSL,0,0
+C004,34,F,12,95.1,1141.2,Month-to-month,Electronic check,Fiber,4,1
+C005,52,M,36,60.0,2160.0,One year,Credit card,DSL,1,0
+C006,41,F,3,99.5,298.5,Month-to-month,Electronic check,Fiber,5,1

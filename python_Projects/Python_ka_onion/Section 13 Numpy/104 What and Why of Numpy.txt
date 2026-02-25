@@ -1,0 +1,9 @@
+What we will Learn
+
+.Most useful functions
+
+.Data Types
+
+.Creating Types
+
+.Manipulating Arrays

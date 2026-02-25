@@ -1,0 +1,10 @@
+############################################
+To run conda environment and to run jupyter
+#1. cd ~/Desktop/ai_course/cardio_project_1
+#2. conda activate cardio_env
+#3. jupyter lab
+
+###############################################
+conda deactivate
+############################################
+354817664006912
